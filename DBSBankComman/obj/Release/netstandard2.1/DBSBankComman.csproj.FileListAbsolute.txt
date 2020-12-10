@@ -1,0 +1,9 @@
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\bin\Release\netstandard2.1\DBSBankComman.deps.json
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\bin\Release\netstandard2.1\DBSBankComman.dll
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\bin\Release\netstandard2.1\DBSBankComman.pdb
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.csprojAssemblyReference.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.AssemblyInfoInputs.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.AssemblyInfo.cs
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.csproj.CoreCompileInputs.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.dll
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankComman\obj\Release\netstandard2.1\DBSBankComman.pdb
