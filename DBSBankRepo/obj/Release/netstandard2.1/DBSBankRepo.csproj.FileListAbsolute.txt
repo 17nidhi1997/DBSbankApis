@@ -1,0 +1,12 @@
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\bin\Release\netstandard2.1\DBSBankRepo.deps.json
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\bin\Release\netstandard2.1\DBSBankRepo.dll
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\bin\Release\netstandard2.1\DBSBankRepo.pdb
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\bin\Release\netstandard2.1\DBSBankComman.dll
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\bin\Release\netstandard2.1\DBSBankComman.pdb
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.csprojAssemblyReference.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.AssemblyInfoInputs.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.AssemblyInfo.cs
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.csproj.CoreCompileInputs.cache
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.csproj.CopyComplete
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.dll
+C:\Users\IBS\Desktop\chocki\DBSBankAPIs\DBSBankRepo\obj\Release\netstandard2.1\DBSBankRepo.pdb
