@@ -10,7 +10,7 @@ namespace DBSBankComman.Model
         [JsonProperty("status")]
         public string status { get; set; }
         [JsonProperty("code")]
-        public int code { get; set; }
+        public string code { get; set; }
         [JsonProperty("description")]
         public string description { get; set; }
     }

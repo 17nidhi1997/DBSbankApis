@@ -9,10 +9,10 @@ namespace DBSBankComman.Model
         public string transportDocType { get; set; }
         public string freight { get; set; }
         public string freightOthers { get; set; }
-        public int totalOriginals { get; set; }
-        public int originalsRequired { get; set; }
-        public int copiesRequired { get; set; }
-        public int consignedTo { get; set; }
+        public string totalOriginals { get; set; }
+        public string originalsRequired { get; set; }
+        public string copiesRequired { get; set; }
+        public string consignedTo { get; set; }
         public string consignedToOthers { get; set; }
         public string notifyParty { get; set; }
     }

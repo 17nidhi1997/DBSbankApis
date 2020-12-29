@@ -1,5 +1,6 @@
 ﻿using DBSBankComman.Model;
 using DBSBankComman.Utilities;
+//using DBSBankComman.Utilities;
 using Newtonsoft.Json;
 using Serilog.Events;
 using System;
@@ -16,7 +17,7 @@ namespace DBSBankRepo
             try
             {
                 var json = JsonConvert.SerializeObject(result);
-                System.IO.File.WriteAllText(@"D:\pgpOperation\FINAL\JsonData.txt", json);
+                System.IO.File.WriteAllText(@"D:\NIDHI\pgpOperation\JsonData.txt", json);
                 return json;
             }
             catch (Exception exception)
@@ -43,7 +44,7 @@ namespace DBSBankRepo
             }
         }
 
-        public object deSerialTradeLc(TradeLC_ack text)
+        public TradeLC_ack deSerialTradeLcACK(string text)
         {
             try
             {                      
@@ -56,5 +57,7 @@ namespace DBSBankRepo
                 throw exception;
             }
         }
+
+      
     }
 }

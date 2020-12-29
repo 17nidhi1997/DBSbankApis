@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1XG/5KpRQWhp/4SLeMgnpwvu2gvRLNou1vuG0LA1O+YoLF6WW5vNZO5wi+WqRz7U4BVqJB+EPdsW34TA+K0y1A==",
+  "dgSpecHash": "iZae2DKA4xjgKEHpH+WCS5fwgHWi1qJQK56TwzF+zVJGQqLKnWZwnjjWivqDue0DxNonXYTdM1vw7oxAAYwWjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
+  "projectFilePath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\IBS\\.nuget\\packages\\bouncycastle.netcore\\1.8.8\\bouncycastle.netcore.1.8.8.nupkg.sha512",
     "C:\\Users\\IBS\\.nuget\\packages\\bouncycastle.netcoresdk\\1.9.3.1\\bouncycastle.netcoresdk.1.9.3.1.nupkg.sha512",
@@ -36,6 +36,7 @@
     "C:\\Users\\IBS\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.91\\oracle.manageddataaccess.core.2.19.91.nupkg.sha512",
     "C:\\Users\\IBS\\.nuget\\packages\\pgpcore\\4.0.0\\pgpcore.4.0.0.nupkg.sha512",
     "C:\\Users\\IBS\\.nuget\\packages\\portable.bouncycastle\\1.8.8\\portable.bouncycastle.1.8.8.nupkg.sha512",
+    "C:\\Users\\IBS\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\runtime.native.system\\4.0.0\\runtime.native.system.4.0.0.nupkg.sha512",
     "C:\\Users\\IBS\\.nuget\\packages\\serilog\\2.6.0\\serilog.2.6.0.nupkg.sha512",
     "C:\\Users\\IBS\\.nuget\\packages\\serilog.aspnetcore\\2.1.1\\serilog.aspnetcore.2.1.1.nupkg.sha512",

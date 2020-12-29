@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,11 +7,14 @@
 
   <ItemGroup>
     <PackageReference Include="PgpCore" Version="4.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="3.1.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="4.1.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DBSBankAPIs\DBSBankAPIs.csproj" />
-    <ProjectReference Include="..\DBSBankManager\DBSBankManager.csproj" />
+    <ProjectReference Include="..\DBSBankComman\DBSBankComman.csproj" />
+    <ProjectReference Include="..\DBSBankRepo\DBSBankRepo.csproj" />
   </ItemGroup>
 
 </Project>

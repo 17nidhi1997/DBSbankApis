@@ -13,9 +13,9 @@ namespace DBSBankComman.Model
         public string placeOfDelivery { get; set; }
         public string partialShipmentAllowed { get; set; }
         public string transhipmentAllowed { get; set; }
-        public DateTime latestShipmentDate { get; set; }
+        public string latestShipmentDate { get; set; }
         public string shipmentPeriod { get; set; }
-        public int presentationPeriod { get; set; }
+        public string presentationPeriod { get; set; }
         public string presentationPeriodFrom { get; set; }
         public string presentationPeriodOth { get; set; }
         public string shippingTerms { get; set; }

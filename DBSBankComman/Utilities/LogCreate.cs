@@ -9,8 +9,6 @@ namespace DBSBankComman.Utilities
 {
     public static class LogCreate
     {
-        public static locModel locmodel;
-
         public static void LogWrite(LogEventLevel lev, string className, string methodName, Exception ex, string Msg)
         {
             try
@@ -19,10 +17,7 @@ namespace DBSBankComman.Utilities
 
                 if (ex != null)
                 {
-                    string _username = "LoggedUser";
-                    if (locmodel.header.msgId != null) { _username = locmodel.header.orgId; }
-
-                    Log.Write(lev, ex, "User : " + _username + " Class : " + className + " Method : " + methodName + " Error Msg : " + ex.Message + " Operation Message : " + Msg);
+                    Log.Write(lev, ex, " Method : " + methodName + " Error Msg : " + ex.Message + " Operation Message : " + Msg);
 
                     if (ex.InnerException != null)
                     {
@@ -31,8 +26,11 @@ namespace DBSBankComman.Utilities
                 }
                 else
                 {
+
                     Log.Write(lev, className + " : " + methodName + " : " + Msg);
                 }
+
+                Log.Write(LogEventLevel.Information, "***********************************END***********************************************");
             }
             catch (Exception ex1)
             {
@@ -41,3 +39,4 @@ namespace DBSBankComman.Utilities
         }
     }
 }
+

@@ -7,8 +7,8 @@ namespace DBSBankComman.Model
    public class locModel9
     {
         public string typeOfDocument { get; set; }
-        public int noOfSets { get; set; }
-        public int noOfOriginal { get; set; }
-        public int noOfCopies { get; set; }
+        public string noOfSets { get; set; }
+        public string noOfOriginal { get; set; }
+        public string noOfCopies { get; set; }
     }
 }

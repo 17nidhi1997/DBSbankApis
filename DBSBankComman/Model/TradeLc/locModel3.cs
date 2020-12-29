@@ -15,9 +15,16 @@ namespace DBSBankComman.Model
         public string beneAddress { get; set; }
         public string beneCountry { get; set; }
         public string beneContactName { get; set; }
-        public int beneContactNumber { get; set; }
+        public string beneContactNumber { get; set; }
         public string advisingBank { get; set; }
         public string advisingBankAddress { get; set; }
         public string advisingBankSwiftCode { get; set; }
+        //public locModel4 txnDetails { get; set; }
+        //public locModel5 shipmentDetails { get; set; }
+        //public List<locModel6> transportDocsDetails { get; set; }
+        //public locModel7 documentsDetails { get; set; }
+        //public locModel8 instructionsDetails { get; set; }
+        //public List<locModel9> additionalDocuments { get; set; }
+
     }
 }

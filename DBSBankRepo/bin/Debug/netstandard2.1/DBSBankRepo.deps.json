@@ -15,7 +15,9 @@
           "Google.AdWords": "24.13.0",
           "Microsoft.Extensions.Configuration.Abstractions": "2.1.1",
           "Newtonsoft.Json": "12.0.3",
-          "Oracle.ManagedDataAccess.Core": "2.19.91"
+          "Oracle.ManagedDataAccess.Core": "2.19.91",
+          "PgpCore": "4.0.0",
+          "RestSharp": "106.11.7"
         },
         "runtime": {
           "DBSBankRepo.dll": {}
@@ -353,6 +355,26 @@
           "lib/netstandard2.0/Oracle.ManagedDataAccess.dll": {
             "assemblyVersion": "2.0.19.1",
             "fileVersion": "2.0.19.1"
+          }
+        }
+      },
+      "PgpCore/4.0.0": {
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.8"
+        },
+        "runtime": {
+          "lib/netstandard2.0/PgpCore.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Portable.BouncyCastle/1.8.8": {},
+      "RestSharp/106.11.7": {
+        "runtime": {
+          "lib/netstandard2.0/RestSharp.dll": {
+            "assemblyVersion": "106.11.7.0",
+            "fileVersion": "106.11.7.0"
           }
         }
       },
@@ -1169,6 +1191,27 @@
       "sha512": "sha512-Jgrn+kEbB9kWloFfxiP9Agzq8qK3tanbRDZJinICY0t94gmqkC/OwyzlQLJf8SLymBH8urBMopkqpAIyD564ww==",
       "path": "oracle.manageddataaccess.core/2.19.91",
       "hashPath": "oracle.manageddataaccess.core.2.19.91.nupkg.sha512"
+    },
+    "PgpCore/4.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-3/+Z5eg0ULqjpHFu37fx4YLqhzTeIIV3+K2zkzPuLbOICjAjgtnVYa0YrP2MhE9JwXTD4Xhv+W2fCNPaMCiVAg==",
+      "path": "pgpcore/4.0.0",
+      "hashPath": "pgpcore.4.0.0.nupkg.sha512"
+    },
+    "Portable.BouncyCastle/1.8.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-1rxdf8NfyAxLlqIEciCl/yNhmz1YiLkmp6rrF8p3/NVmyHHzPWLx8djtDvSAwhPLg64BXvsRcM3+5bP1HAUdYg==",
+      "path": "portable.bouncycastle/1.8.8",
+      "hashPath": "portable.bouncycastle.1.8.8.nupkg.sha512"
+    },
+    "RestSharp/106.11.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NzndH096CTulvq+ihr7u1mBJ29oukdi9A8bypQJk+kaHxbRzTTrtgsEEQAb04ptTUZmQa7cgo7uF5z7NuEPX1Q==",
+      "path": "restsharp/106.11.7",
+      "hashPath": "restsharp.106.11.7.nupkg.sha512"
     },
     "runtime.native.System/4.0.0": {
       "type": "package",

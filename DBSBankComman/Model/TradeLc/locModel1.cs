@@ -8,9 +8,9 @@ namespace DBSBankComman.Model
     {
         public string msgId { get; set; }
         public string orgId { get; set; }
-        public string TimeStamp { get; set; }
+        public string timeStamp { get; set; }
         public string channelId { get; set; }
         public string ctry { get; set; }
-        public int noOfDocAttached { get; set; }
+        public string noOfDocAttached { get; set; }
     }
 }

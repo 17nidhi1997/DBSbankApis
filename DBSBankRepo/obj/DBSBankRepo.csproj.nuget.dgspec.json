@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj": {}
+    "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj": {
+    "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj",
+        "projectUniqueName": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj",
         "projectName": "DBSBankComman",
-        "projectPath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj",
+        "projectPath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj",
         "packagesPath": "C:\\Users\\IBS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\obj\\",
+        "outputPath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj": {
+    "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
+        "projectUniqueName": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
         "projectName": "DBSBankRepo",
-        "projectPath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
+        "projectPath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\DBSBankRepo.csproj",
         "packagesPath": "C:\\Users\\IBS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankRepo\\obj\\",
+        "outputPath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankRepo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -107,8 +107,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj": {
-                "projectPath": "C:\\Users\\IBS\\Desktop\\chocki\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj"
+              "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj": {
+                "projectPath": "C:\\Users\\IBS\\Desktop\\New folder (2)\\DBSBankAPIs\\DBSBankComman\\DBSBankComman.csproj"
               }
             }
           }
@@ -149,6 +149,10 @@
             "PgpCore": {
               "target": "Package",
               "version": "[4.0.0, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.7, )"
             }
           },
           "imports": [
